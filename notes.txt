@@ -1,0 +1,18 @@
+SENDING GET REQUESTS
+objectives 
+    1. create a request to a remote resource 
+    2, handle the response 
+    3. Learn how to parse
+
+
+SENDING AN HTTP GET REQUEST USING PYTHON 
+ steps1 
+    1. import requests 
+
+step 2 
+     2. set the url we want to get data from . this url we can store it in a variable.
+      for instance   url = "https://learn-co-curriculum.github.io/json-site-example/"
+step 3
+     we pass this url variable inot a method called get that us part of the requests module we loaded in step 1
+
+     
